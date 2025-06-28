@@ -13,6 +13,9 @@
 
 USB microSD 구현에서의 \*\*MSC(Mass Storage Class)\*\*와 \*\*MTP(Media Transfer Protocol)\*\*의 차이는 다음과 같습니다:
 
+### 참고 동영상
+https://youtu.be/I9KDN1o6924?si=F6ZpNetbuSHAzHi_
+
 ---
 
 ### 🔹 1. **접근 방식 차이**
