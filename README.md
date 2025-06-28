@@ -1,5 +1,8 @@
 # 문서파일만 저장하는 USB MicroSD 
 ## Hardware: STM32H750VBT6 480MHz MPU Demo Board
+- [유래텍 URAETECH](https://uraetech.co.kr/)
+- [알리맨 유튜브](https://youtu.be/E8tZzawSQsM?si=naVZe0wMeBq0vCPa)
+
 ### STM32CubeIDE
 - Menu > Manage Embedded Software Package
 - STM32H 최신 버전 v170.zip 선택
