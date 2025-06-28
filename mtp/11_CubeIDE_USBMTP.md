@@ -50,7 +50,7 @@
 
 > STM32CubeIDE 기본에는 MTP가 없음 → **ST GitHub에서 수동으로 넣어야 해요**
 
-#### 📦 GitHub에서 MTP 코드 받기
+#### 📦 [GitHub에서 MTP 코드 받기](https://www.youtube.com/watch?v=wOC04mQK9Nw)
 
 1. 웹 브라우저에서 이동:
 
